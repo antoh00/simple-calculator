@@ -1,4 +1,5 @@
-
+Author: Antony Ochieng
+email: otienoantoh@gmail.com
 
 SIMPLE CALCULATOR FOR EASY OPERATIONS
 ========================================================================
